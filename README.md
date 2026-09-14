@@ -88,7 +88,7 @@ I'm a **BBA student at United International University 🏛️**, majoring in **
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marufa4412&theme=tokyonight"/>
 </div>
 <br> 
 
