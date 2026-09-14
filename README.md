@@ -31,15 +31,23 @@ Business Analytics • Data • Research • Curiosity 🌿
 
 <br><br>
 
-<!-- Replace # with your social media links when ready -->
+<!-- Replace # with your real social links when ready -->
 
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 <br><br>
 
@@ -64,44 +72,41 @@ I'm a Business Analytics student at United International University interested i
 
 🛠️ Skills & Tools
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%" align="center" valign="top">
-
-📊 Data & Analytics
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,python,r&theme=dark" alt="MySQL, Python, R"/>
+Data & Analytics
 
 <br>
 
-<sub><b>SQL • MySQL • Python • R</b></sub>
+<img src="[https://cdn.simpleicons.org/microsoftexcel/217346](https://en.wikipedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg)" height="44" alt="Microsoft Excel" title="Microsoft Excel"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="[https://cdn.simpleicons.org/powerbi/F2C811](https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg)" height="44" alt="Power BI" title="Power BI"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="44" alt="MySQL" title="MySQL"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" title="Python"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/r/276DC3" height="44" alt="R" title="R"/>
 
-</td>
+<br>
 
-<td width="50%" align="center" valign="top">
+<sub><b>Excel</b> • <b>Power BI</b> • <b>SQL</b> • <b>MySQL</b> • <b>Python</b> • <b>R</b></sub>
 
-💻 Web & Workflow
+<br>
+
+Web & Workflow
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" title="WordPress"/>
 
 <br>
 
-<sub><b>HTML • CSS • JavaScript • WordPress • Git • GitHub • VS Code</b></sub>
+<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>WordPress</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b></sub>
 
-</td>
-
-</tr>
-</table>
+</div>
 
 🎯 What I Focus On
 
@@ -158,6 +163,8 @@ A personal space combining analytics, research, learning, and life.
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="HTML, CSS, JavaScript, GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" title="WordPress"/>
 
 <br><br>
 
@@ -245,15 +252,23 @@ Analytics • Research • Business • Data • Learning
 
 <br><br>
 
-<!-- Replace # with your social media links when ready -->
+<!-- Replace # with your real social links when ready -->
 
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/></a>
- 
-<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
 <br><br>
 
