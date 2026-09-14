@@ -110,5 +110,5 @@ I'm a **BBA student at United International University 🏛️**, majoring in **
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=marufa4412&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
 </div>
