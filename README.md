@@ -1,61 +1,99 @@
-<!-- =========================
-     MARUFA AKTER — GITHUB PROFILE
-     ========================= -->
+<!-- =========================================================
+     MARUFA AKTER — GITHUB PROFILE README
+     Clean dark-theme layout inspired by the provided reference
+     ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:1F6FEB,100:2EA043&text=Marufa%20Akter&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20%7C%20Research&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header"/>
+Hi, I'm Marufa Akter 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Turning+data+into+meaningful+business+insights;Exploring+analytics%2C+visualization+%26+research;Building+projects+one+question+at+a+time" alt="Typing SVG"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/marufa4412/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-53634F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:marufa4412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=marufa4412&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=45&lines=Business+Analytics+Student;Data+Analytics+%26+Visualization+Enthusiast;Exploring+Business+Intelligence+%26+SQL;Aspiring+Researcher;Turning+Data+into+Meaningful+Insights"
+alt="Typing introduction"
+/>
 
 </div>
 
-👋 About Me
+👤 About Me
 
-I'm a Business Analytics student at United International University with a growing interest in how data can explain business performance, consumer behavior, and real-world decision-making.
+I'm a BBA student at United International University, majoring in Business Analytics.
+I enjoy working with data, finding patterns, creating visual stories, and exploring research questions that connect business, people, and evidence.
 
-I enjoy working across the full analytical process — from cleaning and organizing data to exploring patterns, building dashboards, and asking research questions that can be tested with evidence.
+🔭 I’m currently building data analytics, SQL, database, and business projects
 
-This GitHub is my learning lab: a place to document projects, experiments, analysis, and progress as I grow into analytics and research.
+🌱 I’m learning more about Business Intelligence, SQL, Python, R, and research analytics
+
+📊 I enjoy data cleaning, dashboards, visualization, and analytical problem-solving
+
+🔬 My research interests include consumer behavior, sustainability, and business strategy
+
+🌍 I’m gradually building a portfolio for analytics, research, and future higher studies
+
+⚡ Outside academics: novels, movies, indoor plants, chess, travel, and food
+
+My GitHub is not my CV — it is my workspace for learning, building, experimenting, and documenting progress.
+
+🚀 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/marufa4412/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/marufa4412">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:marufa4412@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://marufa4412.github.io/my-blog/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+🛠️ Skills & Tools
+
+<div align="center">
+
+<!-- Main technical tool row -->
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode,html,css,js&theme=dark&perline=9" alt="Python, R, MySQL, Git, GitHub, VS Code, HTML, CSS, JavaScript"/>
+
+<br><br>
+
+<!-- Excel and Power BI are shown separately because they are not consistently supported by Skill Icons -->
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" alt="Power BI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data_Analysis-1F6FEB?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Data_Visualization-8B5CF6?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
+
+</div>
 
 <br>
 
-<table>
-<tr>
-<td width="20%" align="center"><b>📊 Analytics</b><br><sub>Patterns → Insights</sub></td>
-<td width="20%" align="center"><b>📈 Visualization</b><br><sub>Numbers → Stories</sub></td>
-<td width="20%" align="center"><b>🗄️ Databases</b><br><sub>Data → Structure</sub></td>
-<td width="20%" align="center"><b>🔬 Research</b><br><sub>Questions → Evidence</sub></td>
-<td width="20%" align="center"><b>🌱 Learning</b><br><sub>Skills → Growth</sub></td>
-</tr>
-</table>
+<div align="center">
 
-🧭 What I Explore
+Analytics: Excel • Power BI • SQL • MySQL • Python • R
+Workflow: Git • GitHub • VS Code • HTML • CSS • JavaScript
+Core strengths: Data Cleaning • Visualization • Dashboarding • Research • Analytical Thinking
+
+</div>
+
+📊 What I Work With
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-📊 Analytics
+📈 Analytics
 
 Business Analytics
 
@@ -65,30 +103,28 @@ Data Visualization
 
 Business Intelligence
 
+KPI Analysis
+
 Sales & Market Analysis
 
-Dashboard Development
-
 </td>
-
 <td width="33%" valign="top">
 
 🗄️ Data
 
-SQL
+SQL Queries
 
 Relational Databases
+
+Database Design
 
 Data Cleaning
 
 Data Transformation
 
-Database Design
-
 Structured Datasets
 
 </td>
-
 <td width="33%" valign="top">
 
 🔬 Research
@@ -103,78 +139,47 @@ Quantitative Research
 
 Research Methodology
 
-Data-driven Decision Making
+Evidence-based Analysis
 
 </td>
-
 </tr>
 </table>
 
-🛠️ Skills & Tools
-
-<div align="center">
-
-Data & Analytics
-
-<br>
-
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="46" alt="Microsoft Excel" title="Microsoft Excel"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="46" alt="Power BI" title="Power BI"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="46" alt="MySQL" title="MySQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" height="46" alt="Python" title="Python"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/r/276DC3" height="46" alt="R" title="R"/>
-
-<br><br>
-
-<sub><b>Excel</b>  •  <b>Power BI</b>  •  <b>SQL</b>  •  <b>MySQL</b>  •  <b>Python</b>  •  <b>R</b></sub>
-
-<br><br>
-
-Development & Workflow
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js&theme=dark" alt="Git, GitHub, VS Code, HTML, CSS, JavaScript"/>
-
-<br><br>
-
-<sub><b>Git</b>  •  <b>GitHub</b>  •  <b>VS Code</b>  •  <b>HTML</b>  •  <b>CSS</b>  •  <b>JavaScript</b></sub>
-
-</div>
-
-🚀 What I'm Building
+🚧 What I'm Building
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-🗄️ Database Systems
+🗄️ Database Projects
 
-Designing relational databases, ER diagrams, normalized structures, tables, relationships, and SQL queries around practical scenarios.
+I’m learning to design databases around real-world scenarios using:
 
-📊 Business Analytics
+ERD Normalization Relationships SQL Queries
 
-Exploring KPIs, customer behavior, market patterns, sales performance, and other business questions through data.
+<br>
+
+📊 Business Analytics Projects
+
+I work with datasets to explore:
+
+KPIs Patterns Trends Customer Behavior Business Performance
 
 </td>
 
 <td width="50%" valign="top">
 
-📈 Data Visualization
+📈 Visualization Projects
 
-Turning analysis into dashboards and visual stories that make complex information easier to understand.
+I’m developing dashboards and visual reports that transform raw information into understandable business stories.
+
+<br>
 
 🔬 Research Analytics
 
-Connecting research questions with quantitative data, statistical analysis, interpretation, and evidence-based findings.
+I’m interested in connecting quantitative data with research questions, statistical evidence, interpretation, and business implications.
 
 </td>
-
 </tr>
 </table>
 
@@ -188,29 +193,29 @@ Raw Data  →  Cleaning  →  Transformation  →  Analysis  →  Visualization 
 
 I’m especially interested in research that connects business questions with empirical data.
 
-Area
+Research Area
 
 What interests me
 
 🛍️ Consumer Behavior
 
-Why consumers choose, purchase, respond, and behave differently
+Understanding why consumers choose, purchase, respond, and behave differently
 
 📊 Business Analytics
 
-How data can improve managerial decision-making
+Using data to support better business and managerial decisions
 
 🌱 Sustainability
 
-How responsible business practices influence long-term value
+Exploring responsible business practices and long-term value creation
 
 ♟️ Business Strategy
 
-How organizations compete, adapt, innovate, and grow
+Understanding how organizations compete, adapt, innovate, and grow
 
 📈 Analytics Research
 
-Using empirical data to investigate real business problems
+Using quantitative evidence to investigate real business problems
 
 <div align="center">
 
@@ -222,24 +227,24 @@ Research Question → Data → Evidence → Insight
 
 <div align="center">
 
-🌿 Personal Portfolio & Digital Garden
+🌿 Personal Portfolio & Blog
 
-My portfolio brings together the analytical and personal sides of my journey.
+A personal digital space where I document both my professional growth and personal interests.
 
 Analytics • Research • Learning • Books • Travel • Food • Plants • Life
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="HTML, CSS, JavaScript, GitHub"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="Portfolio technologies"/>
 
 <br><br>
 
 <a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Live_Website-Visit-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/>
+  <img src="https://img.shields.io/badge/LIVE_WEBSITE-Visit-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live website"/>
 </a>
 &nbsp;
 <a href="https://github.com/marufa4412/my-blog">
-  <img src="https://img.shields.io/badge/Source_Code-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  <img src="https://img.shields.io/badge/SOURCE_CODE-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 
 </div>
@@ -251,7 +256,7 @@ Analytics • Research • Learning • Books • Travel • Food • Plants •
 
 <td width="33%" align="center" valign="top">
 
-🗄️ Database Projects
+🗄️ Database
 
 SQL
 ERD
@@ -263,7 +268,7 @@ Queries
 
 <td width="33%" align="center" valign="top">
 
-📊 Analytics Projects
+📊 Analytics
 
 Business Analysis
 KPIs
@@ -275,7 +280,7 @@ Insights
 
 <td width="33%" align="center" valign="top">
 
-🔬 Research Projects
+🔬 Research
 
 Research Data
 Quantitative Analysis
@@ -288,44 +293,84 @@ Findings
 </tr>
 </table>
 
-Over time, this section will shift from what I'm learning to what I've actually built.
+This section will gradually move from what I'm learning to what I've built and can demonstrate.
 
 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marufa4412&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=marufa4412&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=marufa4412&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+alt="Marufa's GitHub statistics"
+/>
+
+<img
+width="48%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=marufa4412&theme=github-dark-blue&hide_border=true"
+alt="Marufa's GitHub streak"
+/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufa4412&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+<img
+width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufa4412&layout=compact&theme=github_dark&hide_border=true"
+alt="Most used languages"
+/>
 
 </div>
 
-🐍 Contribution Trail
+📉 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=marufa4412&theme=github-compact&hide_border=true&area=true"
+width="100%"
+alt="Contribution activity graph"
+/>
+
+</div>
+
+🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/marufa4412/marufa4412/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub contribution snake"
+  />
 </picture>
 
 </div>
 
-🌿 Beyond the Dataset
+🌿 Beyond Analytics
 
 <div align="center">
 
-📚 Novels   •   🎬 Movies & Series   •   🌱 Indoor Plants
+📚 Novels   •  
+🎬 Movies & Series   •  
+🌱 Indoor Plants   •  
+♟️ Chess
 
-♟️ Chess   •   ✈️ Travel   •   🍜 Food
+<br><br>
+
+✈️ Travel   •  
+🍜 Food   •  
+📝 Learning New Things
 
 </div>
-
-I like keeping room for curiosity outside academics. Sometimes the most useful ideas come from learning something completely unrelated.
 
 🎯 Where I'm Heading
 
@@ -337,17 +382,17 @@ Understand the data
       ↓
 Ask better questions
       ↓
-Build meaningful analyses
+Analyze with evidence
       ↓
-Communicate the findings
+Communicate clearly
       ↓
-Create useful insights
+Create useful insight
       ↓
 Grow into analytics + research
 
 </div>
 
-My goal is to build a portfolio that reflects not only which tools I know, but also how I think, analyze problems, interpret evidence, and communicate insight.
+My goal is to build a portfolio that shows not just the tools I know, but how I think, solve problems, interpret evidence, and communicate findings.
 
 🤝 Let's Connect
 
@@ -358,25 +403,26 @@ Analytics • Research • Business • Data • Learning
 <br><br>
 
 <a href="https://www.linkedin.com/in/marufa4412/">
-  <img src="https://img.shields.io/badge/LinkedIn-Marufa_Akter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-53634F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Marufa_Akter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:marufa4412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/GMAIL-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://marufa4412.github.io/my-blog/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=marufa4412&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
+<img
+src="https://komarev.com/ghpvc/?username=marufa4412&label=Profile%20Views&color=58a6ff&style=flat-square"
+alt="Profile views"
+/>
 
 <br><br>
 
 🌱 Learn continuously • Ask better questions • Let data tell the story
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2EA043,50:1F6FEB,100:0D1117" width="100%" alt="Footer"/>
 
 </div>
