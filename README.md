@@ -104,7 +104,7 @@ Web & Workflow
 
 <br>
 
-<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>WordPress</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b></sub>
+<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>WordPress</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Wordpress</b></sub>
 
 </div>
 
