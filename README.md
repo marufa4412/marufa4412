@@ -7,9 +7,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&dur
 alt="Typing introduction"
 />
 
-<br>
-
-Business Analytics • Data • Research • Curiosity 🌿
 
 <br><br>
 
@@ -29,7 +26,7 @@ Business Analytics • Data • Research • Curiosity 🌿
   <img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- Replace # with your real social links when ready -->
 
@@ -104,7 +101,7 @@ Web & Workflow
 
 <br>
 
-<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> • <b>WordPress</b> • <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Wordpress</b></sub>
+<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> •  <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Wordpress</b></sub>
 
 </div>
 
