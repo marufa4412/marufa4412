@@ -85,7 +85,7 @@ Data & Analytics
 
 <br>
 
-<sub><b>Excel</b> • <b>Power BI</b> • <b>SQL</b> • <b>MySQL</b> • <b>Python</b> • <b>R</b></sub>
+ <b>SQL</b> • <b>MySQL</b> • <b>Python</b> • <b>R</b></sub>
 
 <br>
 
