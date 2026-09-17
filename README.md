@@ -75,9 +75,7 @@ Data & Analytics
 
 <br>
 
-<img src="[https://cdn.simpleicons.org/microsoftexcel/217346](https://en.wikipedia.org/wiki/File:Microsoft_Office_Excel_(2025%E2%80%93present).svg)" height="44" alt="Microsoft Excel" title="Microsoft Excel"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="[https://cdn.simpleicons.org/powerbi/F2C811](https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg)" height="44" alt="Power BI" title="Power BI"/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="44" alt="MySQL" title="MySQL"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
