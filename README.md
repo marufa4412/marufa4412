@@ -30,7 +30,7 @@ alt="Typing introduction"
 
 <!-- Replace # with your real social links when ready -->
 
-<a href="facebook.com/marufa4412">
+<a href="https://www.facebook.com/marufa4412">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 &nbsp;
