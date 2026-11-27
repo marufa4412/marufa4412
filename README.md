@@ -1,272 +1,64 @@
-<div align="center">
+# Marufa Akter
+**Business Analytics Undergraduate | Quantitative Research | Data Analytics**
 
-Hi, I'm Marufa Akter 👋
+BBA (Business Analytics) at **United International University (UIU)** · **CGPA: 3.84/4.00**
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Business+Analytics+Student;Data+%26+Visualization+Enthusiast;Exploring+Analytics%2C+SQL+%26+Research;Turning+Data+into+Meaningful+Insights"
-alt="Typing introduction"
-/>
+I use quantitative research and analytics to investigate business, consumer-behavior, and sustainability questions. My academic work spans empirical research, machine learning, database design, forecasting, and business decision modeling. I am interested in **analytics internships, research collaboration, and postgraduate research opportunities**.
 
+[Portfolio & Research Blog](https://marufa4412.github.io/my-blog/) · [LinkedIn](https://www.linkedin.com/in/marufa4412/) · [Email](mailto:marufa4412@gmail.com)
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/marufa4412/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/marufa4412">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:marufa4412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+## Selected research
 
-<br>
+### Dark UI Cues, FOMO & Online Impulse Buying
+*Quantitative academic research · Group project*
 
-<!-- Replace # with your real social links when ready -->
+- Investigated associations among perceived dark interface cues, fear of missing out (FOMO), and online impulse buying in Bangladesh.
+- Used a survey of **154 valid respondents**, **SmartPLS 4**, and **PLS-SEM** to assess the research model.
+- Applied hypothesis testing, measurement/structural model assessment, and mediation analysis.
+- **[Read the research case study](https://marufa4412.github.io/my-blog/research/dark-ui-fomo/index.html)**
 
-<a href="https://www.facebook.com/marufa4412">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+### Agricultural Land Demand & Biocapacity in Asian Economies
+*Business Analytics capstone research*
 
-<br><br>
+- Studied consumption-based agricultural land demand and measured domestic biocapacity across **14 Asian economies (2000–2022)**.
+- Worked with panel data and methods reported in the capstone, including **two-way fixed effects** and robustness procedures.
+- Focus: sustainability, applied econometrics, and evidence-based policy analysis.
 
-<img
-src="https://komarev.com/ghpvc/?username=marufa4412&label=Profile%20Views&color=58A6FF&style=flat-square"
-alt="Profile Views"
-/>
+> These are academic research projects. Publication status is not claimed.
 
-</div>
+## Applied projects
 
-👤 About Me
+| Area | Project | Methods and tools |
+| --- | --- | --- |
+| Machine learning | Customer purchase prediction | Python, logistic regression, model evaluation |
+| Data mining | Market basket analysis | Python, Apriori, support/confidence/lift |
+| Predictive analytics | Revenue and sales modeling | Support Vector Regression, Random Forest Regression |
+| Database systems | Airport flight operations database | Microsoft Access, Excel, relational design, queries and reports |
+| Data modeling | CityCare hospital EER model | ER/EER concepts, specialization and weak entities |
+| Business modeling | Financial and optimization casework | Excel Solver, linear programming, scenarios and sensitivity analysis |
+| Entrepreneurship | EcoCraft sustainable product venture | Business planning, product prototypes and university exhibition |
+| Digital business | QuickPick pre-ordering concept | WordPress, WooCommerce, Elementor and business-case modeling |
 
-I'm a Business Analytics student at United International University interested in turning data into useful business insights.
+**Portfolio:** [Explore my work](https://marufa4412.github.io/my-blog/#portfolio) · [Research projects](https://marufa4412.github.io/my-blog/#research)
 
-📊 Interested in analytics, visualization, dashboards, and business intelligence
+## Skills developed through coursework and projects
 
-🗄️ Building with SQL, databases, Excel, Power BI, Python, and R
+- **Programming and analytics:** Python, R, Pandas, NumPy, scikit-learn, Jupyter Notebook
+- **Research methods:** Quantitative research, sampling, statistical analysis, PLS-SEM, panel-data methods, hypothesis testing
+- **Database systems:** SQL, Microsoft Access, relational database design, ER/EER modeling
+- **Business intelligence:** Microsoft Excel, PivotTables, data validation, time-series forecasting; Power BI coursework
+- **Decision modeling:** Excel Solver, scenario analysis, financial modeling and optimization
+- **Digital business:** WordPress, WooCommerce, Elementor, LocalWP and Pantheon
 
-🔬 Exploring consumer behavior, sustainability, strategy, and research analytics
+I distinguish coursework familiarity from professional experience and document limitations when evaluating analytical models.
 
-🌱 Using GitHub to learn, build, experiment, and document progress
+---
 
-🛠️ Skills & Tools
+### Currently focused on
+Developing reproducible analytics projects, strengthening my research methods, and turning academic work into clear, evidence-supported case studies.
 
-<div align="center">
+**Open to:** Data/Business Analytics opportunities · Research Assistantships · Academic collaborations
 
-Data & Analytics
-
-<br>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="44" alt="MySQL" title="MySQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" title="Python"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/r/276DC3" height="44" alt="R" title="R"/>
-
-<br>
-
- <b>SQL</b> • <b>MySQL</b> • <b>Python</b> • <b>R</b></sub>
-
-<br>
-
-Web & Workflow
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" title="WordPress"/>
-
-<br>
-
-<sub><b>HTML</b> • <b>CSS</b> • <b>JavaScript</b> •  <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Wordpress</b></sub>
-
-</div>
-
-🎯 What I Focus On
-
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-📊 Analytics
-
-Data Analysis
-Business Intelligence
-Dashboards
-Visualization
-KPIs
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-🗄️ Data
-
-SQL
-Databases
-Data Cleaning
-Transformation
-Data Modeling
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-🔬 Research
-
-Consumer Behavior
-Sustainability
-Business Strategy
-Quantitative Analysis
-Research Methods
-
-</td>
-
-</tr>
-</table>
-
-🌐 Featured Project
-
-<div align="center">
-
-🌿 Personal Portfolio & Blog
-
-A personal space combining analytics, research, learning, and life.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" alt="HTML, CSS, JavaScript, GitHub"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" title="WordPress"/>
-
-<br><br>
-
-<a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Live_Website-Visit-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/>
-</a>
-&nbsp;
-<a href="https://github.com/marufa4412/my-blog">
-  <img src="https://img.shields.io/badge/Source_Code-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-</div>
-
-📈 GitHub Activity
-
-<div align="center">
-
-<img
-width="62%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=marufa4412&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
-🐍 Contribution Trail
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/marufa4412/marufa4412/gh-pages/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/marufa4412/marufa4412/gh-pages/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
-</div>
-
-🌿 Beyond the Dataset
-
-<div align="center">
-
-📚 Novels
-  •  
-🎬 Movies & Series
-  •  
-🌱 Indoor Plants
-  •  
-♟️ Chess
-  •  
-✈️ Travel
-  •  
-🍜 Food
-
-</div>
-
-<div align="center">
-
-🤝 Let's Connect
-
-Analytics • Research • Business • Data • Learning
-
-<br>
-
-<a href="https://www.linkedin.com/in/marufa4412/">
-  <img src="https://img.shields.io/badge/LinkedIn-Marufa_Akter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:marufa4412@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://marufa4412.github.io/my-blog/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br><br>
-
-<!-- Replace # with your real social links when ready -->
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-square&logo=snapchat&logoColor=000000" alt="Snapchat"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<br><br>
-
-🌱 Learn continuously • Ask better questions • Let data tell the story
-
-</div>
+[GitHub Repositories](https://github.com/marufa4412?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/marufa4412/) · **marufa4412@gmail.com**
