@@ -26,6 +26,8 @@ I use quantitative research and analytics to investigate business, consumer-beha
 - Worked with panel data and methods reported in the capstone, including **two-way fixed effects** and robustness procedures.
 - Focus: sustainability, applied econometrics, and evidence-based policy analysis.
 
+**[Read the agricultural land capstone case study](https://marufa4412.github.io/my-blog/research/agricultural-land/index.html)**
+
 > These are academic research projects. Publication status is not claimed.
 
 ## Applied projects
